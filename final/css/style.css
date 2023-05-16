@@ -1,0 +1,45 @@
+body{
+
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.container{
+    text-align: center;
+}
+
+#chamo{
+    background-color: #212121;
+    text-align: center;
+    color: white;
+}
+
+#logo{
+    width:70%;
+}
+
+#navegacion{
+    padding-top: 50px;
+    text-align: center;
+}
+
+#logito{
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+#pequeno{
+    font-size: 12px;
+    font-style: italic;
+}
+
+#grande{
+    font-weight: bold;
+}
+
+#center{
+    margin: auto;
+    border-radius: 7px;
+}
+
